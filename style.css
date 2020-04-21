@@ -11,7 +11,7 @@ header {
   font-family: 'Roboto Slab', sans-serif;
   padding: 10px;
   text-align: center;
-  font-size: 350%;
+  font-size: 400%;
   color: white;
 }
 
@@ -19,7 +19,7 @@ header {
   font-family: 'Roboto';
   text-align: center;
   color: white;
-  padding: 20px;
+  padding: 40px;
 }
     
     /* Style the content */
