@@ -14,6 +14,12 @@ header {
   font-size: 35px;
   color: white;
 }
+
+topnav {
+  font-family: 'Roboto Slab', sans-serif;
+  text-align: center;
+  color: white;    
+}
     
     /* Style the content */
 section {
