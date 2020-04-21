@@ -9,9 +9,9 @@ body {
     /* Style the header */
 header {
   font-family: 'Roboto Slab', sans-serif;
-  padding: 10px;
+  padding: 5px;
   text-align: center;
-  font-size: 100px;
+  font-size: 350%;
   color: white;
 }
 
@@ -37,7 +37,6 @@ footer {
   background-color: #3465b5;
   text-align: center;
   color: white;
-  padding: 5px;
 
 }
     
