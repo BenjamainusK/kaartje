@@ -4,22 +4,11 @@ backend:
 media_folder: static/img
 
 collections:
-  - name: 'pages'
-    label: 'Pages'
-    files:
-      - label: 'Home'
-        name: 'home'
-        file: 'index.html'
-        filter:
-          fields:
-            - { label: 'section', name: 'section', widget: 'markdown' }
-        
+  - name: "home"
+    label: "home"
+    folder: "/index.html"
+    filter:
+      field: section
+      value: nl
     fields:
-      - {label: "Language", name: "language"}
-      - label: 'About'
-        name: 'about'
-        file: 'content/about.md'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - {label: "section", name: "section"}
