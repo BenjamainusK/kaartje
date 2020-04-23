@@ -11,4 +11,4 @@ collections:
         name: 'home'
         file: 'index.html'
         fields:
-          - { label: 'section', name: 'section', widget: 'markdown' }
+          - { label: 'body', name: 'body', widget: 'markdown' }
