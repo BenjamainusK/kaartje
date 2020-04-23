@@ -10,8 +10,12 @@ collections:
       - label: 'Home'
         name: 'home'
         file: 'index.html'
-        fields:
-          - { label: 'Section', name: 'body', widget: 'markdown' }
+        filter:
+          fields:
+            - { label: 'section', name: 'section', widget: 'markdown' }
+        
+    fields:
+      - {label: "Language", name: "language"}
       - label: 'About'
         name: 'about'
         file: 'content/about.md'
