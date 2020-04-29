@@ -97,6 +97,20 @@ a {
   transform-origin: top right;
 }
 
+.skewed2 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #679b9b;
+  z-index: -1;
+  transform: skewY(180deg);
+  transform-origin: bottom right;
+}
+
 #myBtn {
   display: none;
   position: fixed;
