@@ -37,7 +37,13 @@ section {
   background-color: #ffffff;
   
 }
+
+hr {
+  border-top: 1px solid grey;
+  padding-bottom: 3%;
     
+}  
+ 
     /* Style the footer */
 footer {
   background-color: #679b9b;
