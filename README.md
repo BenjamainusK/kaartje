@@ -1,3 +1,3 @@
 This is the website of KarrieKip
 
-Visit the Redbubble page at <a href="karriekip.redbubble.com">karriekip.redbubble.com</a>
+Visit the <a href="https://www.redbubble.com/people/karriekip/shop?asc=u">Redbubble shop</a>
