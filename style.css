@@ -98,7 +98,7 @@ a {
 }
 
 .skewed2 {
-  position: absolute;
+  position: bottom;
   top: 0;
   bottom: 0;
   right: 0;
@@ -108,7 +108,7 @@ a {
   background-color: #679b9b;
   z-index: -1;
   transform: skewY(230deg);
-  transform-origin: bottom right;
+  transform-origin: top right;
 }
 
 #myBtn {
