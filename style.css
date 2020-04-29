@@ -19,8 +19,13 @@ header {
   font-family: 'Roboto';
   text-align: center;
   color: white;
-  padding: 5%;
+  padding-bottom: 5%;
 
+}
+
+.topnav a.active {
+  background-color: #ffffff;
+  color: white;
 }
     
     /* Style the content */
