@@ -107,7 +107,7 @@ a {
   height: 100%;
   background-color: #679b9b;
   z-index: -1;
-  transform: skewY(180deg);
+  transform: skewY(230deg);
   transform-origin: bottom right;
 }
 
