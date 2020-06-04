@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://karriekip.netlify.app/* https://karriekip.tk/:splat 301!
