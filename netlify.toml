@@ -5,7 +5,7 @@ package = "@netlify/plugin-sitemap"
   buildDir = "public"
   exclude = [
     # By file Path
-    './build-dir/path-to/file.html',
+    './buildDir/public/index.html',
     # By Glob pattern
     '**/**/child-one.html'
   ]
